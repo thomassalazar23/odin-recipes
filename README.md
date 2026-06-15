@@ -1,1 +1,2 @@
 # odin-recipes
+This is my little starter webiste from the odin project. Here I'm trying to just get started and get a feel for html and css. I just wanna get a feel for building a website and get more comfortable with html and css. 
